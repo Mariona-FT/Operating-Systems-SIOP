@@ -1,0 +1,2 @@
+# Operating-Systems-SIOP
+SISTEMES OPERATIUS  Curs 2021-22 EPSEVG
