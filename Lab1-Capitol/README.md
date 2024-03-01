@@ -24,4 +24,7 @@
 4. Com compilar el codi (p.ex. el programa myprog.c)?
 ```
 gcc myprog.c -o myprog -L. -ldummy
+gcc programaTT.c -o programaTT -L. -ldummy
+gcc replicant.c -o replicant  -L. -ldummy
+
 ```
