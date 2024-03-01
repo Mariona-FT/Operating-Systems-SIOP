@@ -1,3 +1,8 @@
+
+Resultat i informació del laboratori en el fitxer:
+    Resultats_lab 1.pdf
+
+
 1. Assegurar-nos que tenim els arxius dummy.h i libdummy.a al directori
 de treball
 
