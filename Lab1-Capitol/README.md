@@ -1,6 +1,6 @@
 * Resultat i informació del laboratori en el fitxer:
 
-   [Resultats_lab 1](Operating-Systems-SIOP/Lab1-Capitol/Resultats_Lab 1.pdf)
+   [Resultats_lab 1](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Lab1-Capitol/Resultats_Lab%201.pdf)
 
 
 1. Assegurar-nos que tenim els arxius dummy.h i libdummy.a al directori de treball
