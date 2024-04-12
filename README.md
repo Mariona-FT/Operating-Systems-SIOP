@@ -4,7 +4,7 @@ SISTEMES OPERATIUS  Curs 2021-22 EPSEVG
 En aquest repositori, trobareu tots els fitxers necessaris utilitzats i creats per l'assignatura de Sistemes Operatius al Curs 2021-22 a la Universitat UPC a EPSEVG.
 
 ## Fitxers
-A continuació, es detallen els fitxers i projectes penjats en aquest repositori:
+A continuació, es detallen els fitxers i exercicis penjats en aquest repositori:
 
 ### Apunts Sistemes Operatius:
 Els apunts inclouen explicacions detallades sobre els principis dels sistemes operatius, gestió de processos i memòria, sistemes d'arxius i seguretat. Disponibles en formats llestos per descarregar i consultar en format PDF i DOCX:
@@ -13,7 +13,6 @@ Els apunts inclouen explicacions detallades sobre els principis dels sistemes op
 
 ### Exercicis: 
 A la secció d'exercicis, podeu trobar una col·lecció d'exercicis en codi .C p fet respondre les Entregues dels laboratoris i reforçar i avaluar la comprensió dels temes tractats a classe: 
-
 
 - Carpeta general: [Exercicis](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Exercicis)
   - Tema 0: [Entrega Tema 0.pdf](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Exercicis/Entrega%20Tema%200.pdf)
