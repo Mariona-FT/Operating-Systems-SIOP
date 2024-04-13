@@ -25,8 +25,7 @@ A la secció d'exercicis, podeu trobar una col·lecció d'exercicis en codi .C p
 
 ### Laboratori: El Capitol, el banc del temps
 
- -  Carpeta Laboratori 2: [Laboratori 2]
- -   Carpeta Laboratori 3: [Laboratori 3](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab3-Capitol)
+ -   Carpeta Laboratori 3: [Laboratori 3]
  -   Carpeta Laboratori 4: [Laboratori 4](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab4-Capitol)
 
 
@@ -45,11 +44,11 @@ Enfocament en el treball amb llibreries, redireccionament de canals d'E/S i conc
   - Readme amb comandes: [README.md](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Lab2-Capitol/README.md)
 
 #### Laboratori 3: Entrenant els Time Thieves
-Creació de "dummies" per entrenar els TT i preparar-los per la gran competició de robatori de temps.
+Creació de "dummies" per entrenar els TT i preparar-los per la gran competició final.
 
-- Carpeta general: [lab3](link-al-lab3)
-  - Resultats: [Resultats_Lab 3.pdf](link-als-resultats-lab3)
-  - Readme amb comandes: [README.md](link-al-readme-lab3)
+- Carpeta general: [Lab3-Capitol](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab3-Capitol)
+  - Resultats: [Resultats_Lab 3.pdf](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Lab3-Capitol/Resultats_Lab%203.pdf)
+  - Readme amb comandes: [README.md](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Lab3-Capitol/README.md)
 
 #### Laboratori 4: SIOP Challenge
 La competició final on els estudiants utilitzen tots els coneixements i habilitats adquirides per competir entre ells i veure qui pot robar més temps del Capitol en el menor temps possible.
