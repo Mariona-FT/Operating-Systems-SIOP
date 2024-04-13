@@ -25,7 +25,7 @@ A la secció d'exercicis, podeu trobar una col·lecció d'exercicis en codi .C p
 
 ### Laboratori: El Capitol, el banc del temps
 
- -  Carpeta Laboratori 2: [Laboratori 2](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab2-Capitol)
+ -  Carpeta Laboratori 2: [Laboratori 2]
  -   Carpeta Laboratori 3: [Laboratori 3](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab3-Capitol)
  -   Carpeta Laboratori 4: [Laboratori 4](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab4-Capitol)
 
@@ -33,16 +33,16 @@ A la secció d'exercicis, podeu trobar una col·lecció d'exercicis en codi .C p
 #### Laboratori 1: Creació de Time Thieves
 Configuració inicial dels TT, amb enfocament en la gestió de processos i comunicació entre processos.
 
-- Carpeta general: [lab1](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab1-Capitol)
+- Carpeta general: [Lab1-Capitol](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab1-Capitol)
   - Resultats: [Resultats_Lab 1.pdf](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Lab1-Capitol/Resultats_Lab%201.pdf)
   - Readme amb comandes: [README.md](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Lab1-Capitol/README.md)
 
 #### Laboratori 2: Preparant els Time Thieves
 Enfocament en el treball amb llibreries, redireccionament de canals d'E/S i concurrència.
 
-- Carpeta general: [lab2](link-al-lab2)
-  - Resultats: [Resultats_Lab 2.pdf](link-als-resultats-lab2)
-  - Readme amb comandes: [README.md](link-al-readme-lab2)
+- Carpeta general: [Lab2-Capitol](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab2-Capitol)
+  - Resultats: [Resultats_Lab 2.pdf](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Lab2-Capitol/Resultats_Lab%202.pdf)
+  - Readme amb comandes: [README.md](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Lab2-Capitol/README.md)
 
 #### Laboratori 3: Entrenant els Time Thieves
 Creació de "dummies" per entrenar els TT i preparar-los per la gran competició de robatori de temps.
