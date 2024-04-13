@@ -12,7 +12,7 @@ Els apunts inclouen explicacions detallades sobre els principis dels sistemes op
 - Apunts .docx: [Apunts SIOP.docx](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Apunts%20SIOP.docx) 
 
 ### Exercicis: 
-A la secció d'exercicis, podeu trobar una col·lecció d'exercicis en codi .C p fet respondre les Entregues dels laboratoris i reforçar i avaluar la comprensió dels temes tractats a classe: 
+A la secció d'exercicis, podeu trobar una col·lecció d'exercicis en codi .C fets per respondre les entregues dels laboratoris i reforçar i avaluar la comprensió dels temes tractats a classe: 
 
 - Carpeta general: [Exercicis](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Exercicis)
   - Tema 0: [Entrega Tema 0.pdf](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Exercicis/Entrega%20Tema%200.pdf)
@@ -24,10 +24,6 @@ A la secció d'exercicis, podeu trobar una col·lecció d'exercicis en codi .C p
 
 
 ### Laboratori: El Capitol, el banc del temps
-
- -   Carpeta Laboratori 3: [Laboratori 3]
- -   Carpeta Laboratori 4: [Laboratori 4](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab4-Capitol)
-
 
 #### Laboratori 1: Creació de Time Thieves
 Configuració inicial dels TT, amb enfocament en la gestió de processos i comunicació entre processos.
@@ -53,17 +49,15 @@ Creació de "dummies" per entrenar els TT i preparar-los per la gran competició
 #### Laboratori 4: SIOP Challenge
 La competició final on els estudiants utilitzen tots els coneixements i habilitats adquirides per competir entre ells i veure qui pot robar més temps del Capitol en el menor temps possible.
 
-- Carpeta general: [lab4](link-al-lab4)
-  - Readme amb comandes i instruccions: [README.md](link-al-readme-lab4)
-
-Cada carpeta conté els codis font necessaris per a cada laboratori, així com un fitxer `Resultats_labx.pdf` que documenta l'execució i els resultats de les proves realitzades. Els estudiants hauran de seguir les instruccions contingudes en els fitxers `README.md` de cada carpeta per executar correctament els programes i superar els reptes plantejats.
-
-La culminació d'aquesta sèrie de laboratoris es troba en la SIOP Challenge del Laboratori 4, on la velocitat i l'eficàcia en el robatori de temps determinaran el guanyador de la competició.
-
+- Carpeta general: [lab4]((https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab4-Capitol))
+  - Readme amb comandes i instruccions: [README.md](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Lab4-Capitol/README.md)
+  
+Cada carpeta d'un laboratori `Labx-Capitol` conté els codis necessaris per a cada laboratori, així com un fitxer `Resultats_labx.pdf` que documenta l'execució i els resultats de les proves realitzades. Cal seguir les instruccions contingudes en els fitxers `README.md` de cada carpeta per executar correctament els programes i superar correctament el laboratori.
+La finalització d'aquesta sèrie de laboratoris es troba en la SIOP Challenge del Laboratori 4, on la velocitat i l'eficàcia en el robatori de temps determinen el guanyador de la competició.
 
 ## Autora
 
-Aquesta repositori ha estat creat per [Mariona Farré](https://github.com/Mariona-FT) 
+Aquest repositori ha estat creat per [Mariona Farré](https://github.com/Mariona-FT) 
 
 
 Gràcies per visitar aquest repositori :)
