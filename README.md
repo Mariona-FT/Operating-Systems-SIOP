@@ -23,14 +23,44 @@ A la secció d'exercicis, podeu trobar una col·lecció d'exercicis en codi .C p
   - Tema 5: [Entrega Tema 5.pdf](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Exercicis/Entrega%20Tema%205.pdf)
 
 
-### Sessions de Laboratori: 
-Aquesta activitat implica l'anàlisi de dades de moviments borsaris utilitzant algorismes jeràrquics. 
+### Laboratori: El Capitol, el banc del temps
 
-    -  Entrega Tema 1: [Tema 1.pf](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Exercicis/Entrega%20Tema%201.pdf)
-    -  Entrega Tema 2: [Tema 2](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Exercicis/Entrega%20Tema%200.pdf)
-    -  Entrega Tema 3: [Tema 3](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Exercicis/Entrega%20Tema%203.pdf)
-    -  Entrega Tema 4: [Tema 4](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Exercicis/Entrega%20Tema%204.pdf)
-    
+ -  Carpeta Laboratori 2: [Laboratori 2](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab2-Capitol)
+ -   Carpeta Laboratori 3: [Laboratori 3](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab3-Capitol)
+ -   Carpeta Laboratori 4: [Laboratori 4](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab4-Capitol)
+
+
+#### Laboratori 1: Creació de Time Thieves
+Configuració inicial dels TT, amb enfocament en la gestió de processos i comunicació entre processos.
+
+- Carpeta general: [lab1](https://github.com/Mariona-FT/Operating-Systems-SIOP/tree/main/Lab1-Capitol)
+  - Resultats: [Resultats_Lab 1.pdf](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Lab1-Capitol/Resultats_Lab%201.pdf)
+  - Readme amb comandes: [README.md](https://github.com/Mariona-FT/Operating-Systems-SIOP/blob/main/Lab1-Capitol/README.md)
+
+#### Laboratori 2: Preparant els Time Thieves
+Enfocament en el treball amb llibreries, redireccionament de canals d'E/S i concurrència.
+
+- Carpeta general: [lab2](link-al-lab2)
+  - Resultats: [Resultats_Lab 2.pdf](link-als-resultats-lab2)
+  - Readme amb comandes: [README.md](link-al-readme-lab2)
+
+#### Laboratori 3: Entrenant els Time Thieves
+Creació de "dummies" per entrenar els TT i preparar-los per la gran competició de robatori de temps.
+
+- Carpeta general: [lab3](link-al-lab3)
+  - Resultats: [Resultats_Lab 3.pdf](link-als-resultats-lab3)
+  - Readme amb comandes: [README.md](link-al-readme-lab3)
+
+#### Laboratori 4: SIOP Challenge
+La competició final on els estudiants utilitzen tots els coneixements i habilitats adquirides per competir entre ells i veure qui pot robar més temps del Capitol en el menor temps possible.
+
+- Carpeta general: [lab4](link-al-lab4)
+  - Readme amb comandes i instruccions: [README.md](link-al-readme-lab4)
+
+Cada carpeta conté els codis font necessaris per a cada laboratori, així com un fitxer `Resultats_labx.pdf` que documenta l'execució i els resultats de les proves realitzades. Els estudiants hauran de seguir les instruccions contingudes en els fitxers `README.md` de cada carpeta per executar correctament els programes i superar els reptes plantejats.
+
+La culminació d'aquesta sèrie de laboratoris es troba en la SIOP Challenge del Laboratori 4, on la velocitat i l'eficàcia en el robatori de temps determinaran el guanyador de la competició.
+
 
 ## Autora
 
